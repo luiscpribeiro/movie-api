@@ -124,3 +124,57 @@ Timestamp: Tue Feb 15 2022 20:51:14 GMT+0000 (Hora padrão da Europa Ocidental)
 URL: /favicon.ico
 Timestamp: Tue Feb 15 2022 20:51:14 GMT+0000 (Hora padrão da Europa Ocidental)
 
+URL: /
+Timestamp: Tue Feb 15 2022 21:46:57 GMT+0000 (Hora padrão da Europa Ocidental)
+
+URL: /favicon.ico
+Timestamp: Tue Feb 15 2022 21:46:57 GMT+0000 (Hora padrão da Europa Ocidental)
+
+URL: /documentation.html
+Timestamp: Tue Feb 15 2022 21:46:58 GMT+0000 (Hora padrão da Europa Ocidental)
+
+URL: /favicon.ico
+Timestamp: Tue Feb 15 2022 21:46:58 GMT+0000 (Hora padrão da Europa Ocidental)
+
+URL: /asdasd
+Timestamp: Tue Feb 15 2022 21:47:01 GMT+0000 (Hora padrão da Europa Ocidental)
+
+URL: /favicon.ico
+Timestamp: Tue Feb 15 2022 21:47:01 GMT+0000 (Hora padrão da Europa Ocidental)
+
+URL: /documentation.html
+Timestamp: Tue Feb 15 2022 21:47:03 GMT+0000 (Hora padrão da Europa Ocidental)
+
+URL: /favicon.ico
+Timestamp: Tue Feb 15 2022 21:47:03 GMT+0000 (Hora padrão da Europa Ocidental)
+
+URL: /daaaaaaaaaaa
+Timestamp: Tue Feb 15 2022 21:47:05 GMT+0000 (Hora padrão da Europa Ocidental)
+
+URL: /favicon.ico
+Timestamp: Tue Feb 15 2022 21:47:05 GMT+0000 (Hora padrão da Europa Ocidental)
+
+URL: /
+Timestamp: Tue Feb 15 2022 22:00:04 GMT+0000 (Hora padrão da Europa Ocidental)
+
+URL: /favicon.ico
+Timestamp: Tue Feb 15 2022 22:00:04 GMT+0000 (Hora padrão da Europa Ocidental)
+
+URL: /
+Timestamp: Tue Feb 15 2022 22:00:05 GMT+0000 (Hora padrão da Europa Ocidental)
+
+URL: /favicon.ico
+Timestamp: Tue Feb 15 2022 22:00:05 GMT+0000 (Hora padrão da Europa Ocidental)
+
+URL: /documentation.html
+Timestamp: Tue Feb 15 2022 22:00:07 GMT+0000 (Hora padrão da Europa Ocidental)
+
+URL: /favicon.ico
+Timestamp: Tue Feb 15 2022 22:00:07 GMT+0000 (Hora padrão da Europa Ocidental)
+
+URL: /das
+Timestamp: Tue Feb 15 2022 22:00:10 GMT+0000 (Hora padrão da Europa Ocidental)
+
+URL: /favicon.ico
+Timestamp: Tue Feb 15 2022 22:00:10 GMT+0000 (Hora padrão da Europa Ocidental)
+
