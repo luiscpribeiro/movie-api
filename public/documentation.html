@@ -4,8 +4,131 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <title>myFlix</title>
+    <style>
+      table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+      
+      td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+      }
+      
+      tr:nth-child(even) {
+        background-color: #dddddd;
+      }
+      </style>
   </head>
   <body>
     <h1>Documentation</h1>
+    <table>
+      <tr>
+        <th>DESCRIPTION</th>
+        <th>METHOD</th>
+        <th>URL ENDPOINT</th>
+        <th>PARAMETERS</th>
+        <th>REQUEST DATA</th>
+        <th>RESPONSE DATA</th>
+      </tr>
+      <tr>
+        <td>All movies</td>
+        <td>GET</td>
+        <td>/movies</td>
+        <td></td>
+        <td></td>
+        <td>JSON</td>
+      </tr>
+      <tr>
+        <td>Movie by title</td>
+        <td>GET</td>
+        <td>/movies/title</td>
+        <td>title</td>
+        <td></td>
+        <td>JSON</td>
+      </tr>
+      <tr>
+        <td>Genre information</td>
+        <td>GET</td>
+        <td>/movies/genre/genreName</td>
+        <td>genreName</td>
+        <td></td>
+        <td>JSON</td>
+      </tr>
+      <tr>
+        <td>Directors information</td>
+        <td>GET</td>
+        <td>/movies/directors/directorName</td>
+        <td>directorName</td>
+        <td></td>
+        <td>JSON</td>
+      </tr>
+      <tr>
+        <td>Directors information</td>
+        <td>GET</td>
+        <td>/movies/directors/directorName</td>
+        <td>directorName</td>
+        <td></td>
+        <td>JSON</td>
+      </tr>
+      <tr>
+        <td>All users</td>
+        <td>GET</td>
+        <td>/users</td>
+        <td></td>
+        <td></td>
+        <td>JSON</td>
+      </tr>
+      <tr>
+        <td>User by username</td>
+        <td>GET</td>
+        <td>/users/username</td>
+        <td>username</td>
+        <td></td>
+        <td>JSON</td>
+      </tr>
+      <tr>
+        <td>Create new user</td>
+        <td>POST</td>
+        <td>/users</td>
+        <td></td>
+        <td>JSON</td>
+        <td>JSON</td>
+      </tr>
+      <tr>
+        <td>Updates username</td>
+        <td>PUT</td>
+        <td>/users/username</td>
+        <td>username</td>
+        <td>JSON</td>
+        <td>JSON</td>
+      </tr>
+      <tr>
+        <td>Adds movie to favorite list</td>
+        <td>POST</td>
+        <td>/users/username/movie</td>
+        <td>username & movie</td>
+        <td>JSON</td>
+        <td>JSON</td>
+      </tr>
+      <tr>
+        <td>Deletes movie from favorite list</td>
+        <td>DELETE</td>
+        <td>/users/username/movie</td>
+        <td>username & movie</td>
+        <td></td>
+        <td>JSON</td>
+      </tr>
+      <tr>
+        <td>Deletes user by email</td>
+        <td>DELETE</td>
+        <td>/users/email</td>
+        <td>email</td>
+        <td></td>
+        <td>JSON</td>
+      </tr>
+    </table>
   </body>
 </html>
